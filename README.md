@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**MolDante/MolDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronic Engineering student at "Universidad Tecnológica Nacional Facultad Regional Mendoza (UTN FRM)". 🚀
 
-Here are some ideas to get you started:
+🛠️ About Me
+- 💻 I enjoy solving problems through hardware and software, with experience in C programming, VHDL digital systems, and microcontrollers like Arduino and ESP32.
+- 🎨 I bridge the gap between engineering and creativity, utilizing tools like Blender, Premiere Pro, and After Effects for motion graphics and 3D modeling.
+- 🎸 When I'm not studying or building circuits, I'm usually at the gym, modifying electronics, or playing guitar in custom alternate tunings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+- Hardware & Microcontrollers: Arduino, ESP32, VHDL (Intel Quartus Prime)
+- Software & Tools: C/C++, Git, Proteus, Falstad
+- Creative: Adobe Creative Suite, Krita, Blender
+
+📫 How to reach me
+- Email: dante.molina@alumnos.frm.utn.edu.ar
